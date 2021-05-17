@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @GinJoe
-- 👀 I’m interested in video games & modding
 - 🌱 I’m currently learning Unity games for mobile
 
 <!---
